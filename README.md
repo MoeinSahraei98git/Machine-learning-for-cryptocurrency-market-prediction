@@ -35,3 +35,5 @@ got approximately the same frequency. These frequencies suggest that we might ge
 in classifying neutral days not for the fitness of our model but because of the dominant frequency of
 neutral label.
 In the figure below you can see the box plot of price change variable for each class.
+![image](https://github.com/MoeinSahraei98git/Machine-learning-for-cryptocurrency-market-prediction/assets/160079394/ed55e10f-79c0-4a12-9b17-91192d21908d)
+
